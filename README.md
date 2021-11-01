@@ -1,24 +1,10 @@
-# Infinite Yield 
-[![Watch](http://simpleicon.com/wp-content/uploads/play1.png)](https://www.youtube.com/watch?v=49j2zDGS2Qk)
-The best command line script for roblox.
+# XronHub
+[![Discord](http://simpleicon.com/wp-content/uploads/play1.png)](https://www.youtube.com/watch?v=49j2zDGS2Qk)
+Epic Script.
 
 Get it the source [here](https://github.com/EdgeIY/infiniteyield/wiki)
 
- - Currently 337 commands
- - Open Source
- - 6 years of development
-
 ## Developers
-### Creator: Edge
+### Creator: Apxron
 
-### Developer: Moon
-### Developer: Zwolf
-### Developer: Hunter
-
-
-## Usage
-You can learn how to use all the features of this script in the wiki!
-
-## Contributing
-There is no specific rules on contributing (as of now) just open a pull request and if it checks out we will merge it!
-
+### Developer: Apxron
