@@ -1,5 +1,5 @@
 # Infinite Yield 
-[![Discord](https://www.freepnglogos.com/uploads/youtube-logo-red-hd-13.pngg)](https://www.youtube.com/watch?v=49j2zDGS2Qk)
+[![Watch](http://simpleicon.com/wp-content/uploads/play1.png)](https://www.youtube.com/watch?v=49j2zDGS2Qk)
 The best command line script for roblox.
 
 Get it the source [here](https://github.com/EdgeIY/infiniteyield/wiki)
